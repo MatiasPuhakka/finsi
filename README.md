@@ -2,19 +2,19 @@
 
 Improved ANSI layout with ä, ö and å.
 
-# Installation
+## Installation
 
 Download latest release and run setup.exe.
 
-# Uninstallation
+## Uninstallation
 
 Run setup.exe again and select uninstall.
 
-# Editing
+## Editing
 
 Edit `finsi.klc` with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 
-# Layout
+## Layout
 
 **Default layer:**
 
