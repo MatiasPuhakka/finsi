@@ -1,24 +1,24 @@
-# finsi
+# ANSI, but more Finnish
 
-Improved ANSI layout for Finns!
+Improved ANSI layout with ä, ö and å.
 
 # Installation
 
-Download the release and run setup.exe (not one of the .msi packages)
+Download latest release and run setup.exe.
 
 # Uninstallation
 
-Re-run setup.exe and it will give you the option to either uninstall or repair.
+Run setup.exe again and select uninstall.
 
-# Contributing
+# Editing
 
-Edit `finsi.klc` with [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx)
+Edit `finsi.klc` with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 
 # Layout
 
-**Base layer:**
+**Default layer:**
 
-![Base layer](img/finsi.jpg)
+![Default layer](img/finsi.jpg)
 
 **Shift layer:**
 
