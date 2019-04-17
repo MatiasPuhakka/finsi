@@ -1,6 +1,6 @@
 # ANSI, but more Finnish
 
-Improved ANSI layout with ä, ö and å.
+Improved ANSI layout with ä, ö, å and € behind AltGr.
 
 ## Installation
 
